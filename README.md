@@ -26,8 +26,6 @@ Here are some ideas to get you started:
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-  ![My github status](https://github-readme-stats.vercel.app/api?username=SGFuquen&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SGFuquen&layout=compact)
   
 </div>
 
