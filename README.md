@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Lives-Working%20-blue" /> 
   <img src="https://img.shields.io/badge/Focus Area-current%20finding-blue" />
   <img src="https://img.shields.io/badge/Languages Spoken-English, French%20%26%20Spanish-blue" />
+ 
+  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SGFuquen.repoName) [![GitHub followers](https://img.shields.io/github/followers/SGFuquen.svg?style=social&label=Follow)](https://github.com/SGFuquen?tab=followers)
 </p>
   
 </p>
